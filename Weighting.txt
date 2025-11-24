@@ -1,0 +1,146 @@
+Weighting and Estimation for a Hotel System (Simple Explanation)
+
+Weighting and estimation help teams understand how big, how complex, and how valuable each user story is before development begins. This allows better planning, scheduling, and prioritization.
+
+1. Story Point Estimation Techniques (Simple Explanation)
+
+Story points measure the effort needed to complete a user story.
+They are not hours — instead, they consider:
+
+Complexity
+
+Amount of work
+
+Risks or unknowns
+
+Common scales:
+
+Fibonacci numbers (1, 2, 3, 5, 8, 13…)
+
+Small = 1–3, Medium = 5–8, Large = 13+
+
+Example in a hotel system:
+
+“Search available rooms” → 3 points (simple)
+
+“Online payment integration” → 8 points (complex)
+
+2. Estimation Methods (Simple and Common)
+a) Planning Poker
+
+Each team member gets cards with numbers (1, 2, 3, 5, 8, etc.).
+
+The user story is discussed.
+
+Everyone secretly selects a card.
+
+All cards are revealed at the same time.
+
+If the numbers vary a lot, the team discusses why and estimates again.
+
+Good for: teamwork, removing bias, improving accuracy.
+
+b) T-Shirt Sizing
+
+User stories are grouped into size categories:
+XS, S, M, L, XL
+
+Example:
+
+“View room details” → S
+
+“Room booking confirmation email system” → M
+
+“Build full billing system” → XL
+
+Good for: early rough estimation.
+
+c) Bucket System
+
+Stories are placed into “buckets” such as 1, 2, 3, 5, 8, 13.
+
+The team quickly sorts stories based on similarity.
+
+Good for: estimating many stories at once.
+
+d) Affinity Estimation
+
+All user stories are placed on a wall or board.
+
+Team members group similar-sized stories together.
+
+Story points are assigned after grouping.
+
+Good for: large backlogs and fast estimation.
+
+3. How to Weight User Stories (Simple Approach)
+
+Weighting means scoring each story based on:
+
+a) Complexity
+
+Ask:
+
+Is the logic simple or complicated?
+
+Does it involve external systems?
+
+Does it require calculations or major validation?
+
+Example:
+
+“Check room availability” → Low complexity
+
+“Integrate with third-party payment gateway” → High complexity
+
+b) Priority
+
+Priority means how urgent or important the story is for the hotel system.
+
+Ask:
+
+Is it needed for launch?
+
+Does it support a core hotel function?
+
+Can the system work without it?
+
+Example:
+
+Booking rooms → High priority
+
+Loyalty points feature → Low priority
+
+c) Business Value
+
+Business value means how much the story helps:
+
+Increase revenue
+
+Improve customer satisfaction
+
+Reduce staff work
+
+Support hotel operations
+
+Example:
+
+“Online booking and payment” → High value (brings income)
+
+“Social media sharing feature” → Low value
+
+Summary (Very Simple)
+
+Story points measure effort.
+
+Use methods like Planning Poker, T-shirt sizing, and Affinity estimation.
+
+Weight stories by:
+
+Complexity → hard or easy
+
+Priority → urgent or not
+
+Business value → important for hotel success
+
+This helps the team build the hotel system faster, smarter, and with better planning.
