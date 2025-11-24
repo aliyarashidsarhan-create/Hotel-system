@@ -1,0 +1,46 @@
+Analysis Phase in Software Development (Hotel System)
+
+Definition and Importance:
+The analysis phase is the stage in the software development lifecycle (SDLC) where requirements are gathered, studied, and documented to ensure the system meets the business and user needs. For a hotel system, this phase ensures features like room booking, check-in/check-out, billing, and customer management are properly understood before development begins. Its importance lies in reducing errors, avoiding costly changes later, and creating a clear roadmap for design and implementation.
+
+Sub-Steps in the Analysis Phase:
+
+Requirement Gathering: Collect information from stakeholders (hotel staff, managers, customers) through interviews, surveys, or observation to understand what the system should do.
+
+Requirement Analysis: Examine gathered requirements for feasibility, conflicts, and completeness. For a hotel system, check how booking workflows, payment methods, and reporting will work.
+
+Requirement Specification: Document functional requirements (room booking, payments, reports) and non-functional requirements (security, performance, usability).
+
+System Modeling: Create models like use case diagrams, data flow diagrams, or workflow charts to visualize processes such as reservations, cancellations, and inventory management.
+
+Validation & Approval: Review requirements with stakeholders to confirm accuracy and completeness before moving to the design phase.
+
+Deliverables and Outcomes:
+
+Requirement Specification Document (RSD): Detailed documentation of all functional and non-functional requirements.
+
+System Models: Diagrams representing workflows, data, and interactions.
+
+Feasibility Report: Analysis of technical, operational, and financial feasibility.
+
+Approved Requirements: Stakeholder-signed requirements ensuring alignment with business needs.
+
+Best Practices:
+
+Involve all key stakeholders early and continuously.
+
+Prioritize requirements based on business value and urgency.
+
+Maintain clear and structured documentation.
+
+Use visual models to simplify complex processes.
+
+Common Challenges:
+
+Unclear or changing requirements from stakeholders.
+
+Communication gaps between technical teams and hotel staff.
+
+Overlooking non-functional requirements like system security or performance.
+
+Scope creep due to additional features requested after analysis.
