@@ -1,0 +1,88 @@
+Product Backlog Development for a Hotel System (Simple Explanation)
+1. What is a Product Backlog and Its Purpose?
+
+A product backlog is a list of all features, improvements, and fixes that need to be done to build the hotel software.
+It is created and maintained by the Product Owner.
+Its purpose is to make sure the development team always knows what to build next, starting from the most important features.
+It helps keep the project organized, transparent, and aligned with business needs.
+
+2. How to Create and Structure a Product Backlog
+
+To create a product backlog for a hotel system:
+
+Gather requirements
+Talk to hotel staff, managers, receptionists, and customers to understand what they need (booking, billing, rooms, etc.).
+
+Write user stories
+Use simple statements like:
+“As a guest, I want to book a room online so that I can reserve my stay easily.”
+
+Break down large tasks
+Big features such as "Room Booking" can be broken into smaller tasks like:
+
+Search for rooms
+
+Select dates
+
+Add guest details
+
+Confirm payment
+
+Organize the backlog
+Group items by hotel modules such as:
+
+Room Booking
+
+Check-in/Check-out
+
+Billing
+
+Housekeeping
+
+Reports
+
+Add details gradually
+Items at the top are more detailed.
+Items at the bottom can be brief and expanded later.
+
+3. Backlog Prioritization Techniques
+
+To decide what should be done first, the Product Owner can use:
+
+MoSCoW Method
+Must-have, Should-have, Could-have, Won’t-have.
+
+Value vs. Effort
+Choose items that give high value but require low effort.
+
+Business Value Ranking
+Features most needed by the hotel (e.g., room booking) are placed at the top.
+
+Risk-based Prioritization
+Features that reduce risk or uncertainty get done earlier.
+
+Stakeholder Input
+Hotel manager and staff help identify what is most important.
+
+4. Backlog Refinement and Maintenance
+
+Backlog refinement (also called grooming) keeps the backlog clean and updated.
+
+It includes:
+
+Reviewing items regularly
+Remove outdated or unnecessary features.
+
+Adding new requirements
+If the hotel asks for new features, add them.
+
+Updating priorities
+Move high-value items to the top.
+
+Improving user stories
+Add acceptance criteria, clarify details, and adjust estimates.
+
+Breaking large items into smaller ones
+This helps the team plan more accurately.
+
+Refinement is usually done every week or during each sprint.
