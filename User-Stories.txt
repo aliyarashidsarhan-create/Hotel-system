@@ -1,0 +1,83 @@
+1. What Are User Stories and Their Format?
+
+User stories are short, simple descriptions of a feature told from the user’s point of view.
+They help the development team understand what the user needs and why they need it.
+
+Standard format:
+
+As a [type of user], I want [feature], so that [benefit].
+
+Examples for a hotel system:
+
+As a guest, I want to book a room online so that I can reserve my stay easily.
+
+As a receptionist, I want to check room availability so that I can assist guests quickly.
+
+As a manager, I want to view daily reports so that I can monitor hotel performance.
+
+2. How to Write Effective User Stories
+
+To write good user stories, follow these principles:
+
+a. Keep them short and clear
+
+The story should be simple enough for anyone to understand.
+
+b. Focus on the user
+
+Always write from the user’s perspective, not the system’s.
+
+c. Include a clear goal
+
+Explain what the user wants to do.
+
+d. Explain the purpose
+
+Always include the “so that…” part — it shows the real value.
+
+e. Avoid technical language
+
+Focus on needs, not solutions.
+Example: Say “I want to check in guests quickly” instead of “I want an optimized API endpoint.”
+
+f. Make each story independent
+
+Each story should stand on its own.
+
+g. Ensure it is small enough to complete in one sprint
+
+If it is too big, break it down into smaller stories.
+
+3. Acceptance Criteria and Their Importance
+
+Acceptance criteria are statements that define the conditions a user story must meet to be considered complete.
+
+They answer the question:
+“How will we know the story is done?”
+
+Why acceptance criteria are important:
+
+Clarify requirements: Everyone understands exactly what needs to be built.
+
+Avoid misunderstandings: Prevents confusion between developers, testers, and stakeholders.
+
+Support testing: Testers can verify if the story works as intended.
+
+Ensure quality: Helps developers know when the functionality is correct.
+
+Define boundaries: Prevents unnecessary extra work or wrong assumptions.
+
+Example for a hotel system:
+
+User Story:
+As a guest, I want to book a room online so that I can reserve my stay easily.
+
+Acceptance Criteria:
+
+The system should allow selecting check-in and check-out dates.
+
+The system should show available rooms for the selected dates.
+
+The user should be able to complete the booking with personal details.
+
+The system should confirm the booking with a message or email.
