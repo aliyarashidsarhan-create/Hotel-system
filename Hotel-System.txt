@@ -1,0 +1,226 @@
+Complete Banking System Example (Simple, Without Tables)
+
+This example combines user stories, product backlog, story weighting, and acceptance criteria—all in simple language and without tables.
+
+1. Overview of the Banking System
+
+The banking system allows customers to manage their accounts, transfer money, apply for loans, view statements, and perform secure online banking actions. The system also supports admin functions, fraud checks, notifications, and customer support.
+
+2. User Stories (10–15 Stories)
+
+All user stories follow the format:
+As a… I want… So that…
+
+1. Create Account
+
+As a new customer, I want to create an online banking account so that I can access banking services.
+
+2. Log In Securely
+
+As a customer, I want to log in using a secure password and OTP so that my data stays protected.
+
+3. View Account Balance
+
+As a customer, I want to see my account balance so that I know how much money I have.
+
+4. Deposit Money
+
+As a customer, I want to deposit money into my account so that I can increase my balance.
+
+5. Withdraw Money
+
+As a customer, I want to withdraw money so that I can use cash when needed.
+
+6. Transfer Money to Another Account
+
+As a customer, I want to transfer money to another bank account so that I can pay others.
+
+7. View Transaction History
+
+As a customer, I want to view my past transactions so that I can track my money usage.
+
+8. Download Bank Statements
+
+As a customer, I want to download my monthly statements so that I can keep records.
+
+9. Apply for a Loan
+
+As a customer, I want to apply for a loan so that I can get financial help.
+
+10. Check Loan Status
+
+As a customer, I want to check the status of my loan application so that I can know if it is approved.
+
+11. Receive Alerts and Notifications
+
+As a customer, I want to receive SMS/Email alerts so that I stay updated about transactions.
+
+12. Update My Personal Information
+
+As a customer, I want to update my address and phone number so that my profile stays correct.
+
+13. Report Lost or Stolen Card
+
+As a customer, I want to block my bank card so that no one else can misuse it.
+
+14. Admin Approve Loans
+
+As an admin, I want to review and approve loan applications so that customers receive loan decisions.
+
+15. Admin Monitor Fraud
+
+As an admin, I want to monitor suspicious activities so that the bank remains secure.
+
+3. Product Backlog With Weighted User Stories
+
+Weighting is done using story points, based on complexity, effort, and value.
+
+Below are the stories with simple weights:
+
+Create account – 5 points
+
+Secure login – 8 points
+
+View balance – 3 points
+
+Deposit money – 5 points
+
+Withdraw money – 5 points
+
+Transfer money – 13 points (more complex)
+
+View transaction history – 8 points
+
+Download statements – 5 points
+
+Apply for loan – 13 points
+
+Check loan status – 3 points
+
+Alerts and notifications – 8 points
+
+Update personal info – 5 points
+
+Block lost card – 8 points
+
+Admin approve loans – 13 points
+
+Admin fraud monitoring – 20 points (highest complexity)
+
+Higher numbers = more complex and time-consuming.
+
+4. Acceptance Criteria for Each User Story
+
+Below are simple acceptance criteria for each story:
+
+1. Create Account
+
+User can enter required details.
+
+System creates an account when data is valid.
+
+User receives confirmation.
+
+2. Secure Login
+
+Login requires correct username and password.
+
+OTP is sent to registered phone/email.
+
+Login fails for incorrect details.
+
+3. View Balance
+
+User sees real-time balance.
+
+Balance is accurate.
+
+4. Deposit Money
+
+User enters deposit amount.
+
+Balance updates instantly.
+
+Transaction record is created.
+
+5. Withdraw Money
+
+Withdrawal only works if balance is enough.
+
+Balance updates after withdrawal.
+
+User gets a confirmation message.
+
+6. Transfer Money
+
+Transfer only works if recipient account is valid.
+
+Amount is deducted from sender.
+
+Amount appears in recipient’s account.
+
+User gets transfer confirmation.
+
+7. View Transaction History
+
+User sees at least the last 6 months of transactions.
+
+Each record shows date, type, and amount.
+
+8. Download Statements
+
+User can download statements in PDF.
+
+Statement matches the user's transaction history.
+
+9. Apply for Loan
+
+User can enter loan amount and purpose.
+
+System saves loan request.
+
+User receives a confirmation.
+
+10. Check Loan Status
+
+User sees loan status like "Pending", "Approved", "Rejected".
+
+Status updates correctly after admin review.
+
+11. Alerts and Notifications
+
+User receives notifications for deposits, withdrawals, and transfers.
+
+Notifications arrive instantly.
+
+12. Update Personal Information
+
+User can change phone number or address.
+
+System saves changes.
+
+User sees updated info immediately.
+
+13. Block Lost Card
+
+User can request card block.
+
+Card becomes inactive instantly.
+
+User receives confirmation.
+
+14. Admin Approve Loans
+
+Admin can view loan applications.
+
+Admin can approve or reject.
+
+System updates the customer’s loan status.
+
+15. Admin Fraud Monitoring
+
+System flags suspicious activities.
+
+Admin can review flagged items.
+
+Admin can take action (freeze account, report issue).
